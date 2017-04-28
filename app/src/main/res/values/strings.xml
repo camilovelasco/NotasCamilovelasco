@@ -1,0 +1,11 @@
+<resources>
+
+
+    <string name="PrimeraNota">PrimeraNota</string>
+    <string name="app_name">app_name</string>
+    <string name="SegundaNota">SegundaNota</string>
+    <string name="TerceraNota">TerceraNota</string>
+    <string name="EsperandoRespuesta">Wait for Resoults</string>
+    <string name="CALCULODEFINITIVO">CALCULODEFINITIVO</string>
+    <string name="NOTAFALTANTE">NOTAFALTANTE</string>
+</resources>

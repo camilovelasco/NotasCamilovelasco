@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NotasCamilovelasco</string>
+    <string name="EsperandoRespuesta">Waiting for Resoults</string>
+    <string name="PrimeraNota">First</string>
+    <string name="SegundaNota">Second</string>
+    <string name="TerceraNota">Third</string>
+    <string name="CALCULODEFINITIVO">Final Note</string>
+    <string name="NOTAFALTANTE">Final Note</string>
+</resources>
